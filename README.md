@@ -1,26 +1,91 @@
 <h1 align="center">Hi 👋, I'm Dhanraj Shelke</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/dhanrajshelkell" target="blank"><img src="https://img.shields.io/twitter/follow/dhanrajshelkell?logo=twitter&style=for-the-badge" alt="dhanrajshelkell" /></a> </p>
-
-- 🔭 I’m currently working on **LanguageTranslator**
-
-- 📫 How to reach me **dhanrajshelke08@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhanrajshelkell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanrajshelkell" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhanraj shelke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanraj shelke" height="30" width="40" /></a>
-<a href="https://instagram.com/dhanraj__shelke7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanraj__shelke7777" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dhanrajshelke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhanrajshelke" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhanraj_shelke7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanraj_shelke7777" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/dhanrajshelkell" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/dhanrajshelkell?logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  </a>
+  <a href="https://linkedin.com/in/dhanraj shelke" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dhanrajshelke08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/dhanraj__shelke7777" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanrajshelke&show_icons=true&locale=en&layout=compact" alt="dhanrajshelke" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanrajshelke&show_icons=true&locale=en" alt="dhanrajshelke" /></p>
+- 🔭 I’m currently working on: **Language Translator (Tkinter + Googletrans API)**
+- 🌱 Currently learning: **Java, DSA, and ReactJS**
+- 💬 Ask me about: `HTML`, `CSS`, `Python`, `Java`, `Frontend Projects`
+- 📫 Reach me at: **dhanrajshelke08@gmail.com**
+- ⚡ Fun fact: I love building cool UIs and automating daily tasks!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajshelke&" alt="dhanrajshelke" /></p>
+---
+
+### 🧠 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="40" alt="Android" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanrajshelke&show_icons=true&theme=dracula&locale=en" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanrajshelke&layout=compact&theme=dracula" height="180" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhanrajshelke&theme=dracula" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Coding Platforms
+
+<p align="left">
+  <a href="https://www.codechef.com/users/dhanrajshelke" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" alt="CodeChef" />
+  </a>
+  <a href="https://www.leetcode.com/dhanraj_shelke7777" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p>
+  This graph represents my real-time GitHub activity over the last few weeks.  
+  It includes commits, pull requests, issues, code reviews, and contributions to public repositories.
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanrajshelke&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+
